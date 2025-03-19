@@ -1,10 +1,11 @@
+import os
 # Criar automaticamente a pasta 'pdf/' se ela não existir
 PASTA_PDF = "pdf"
 if not os.path.exists(PASTA_PDF):
     os.makedirs(PASTA_PDF)
     print(f"📁 Pasta '{PASTA_PDF}' criada para armazenar os arquivos PDF.")
 
-import os
+
 import json
 import docx
 import faiss
