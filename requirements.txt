@@ -1,0 +1,6 @@
+faiss-cpu
+python-docx
+langdetect
+sentence-transformers
+argostranslate
+
