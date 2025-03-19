@@ -1,6 +1,6 @@
 # Tradutor de Documentos
 
-Este projeto processa documentos `.docx`, indexa parágrafos usando FAISS e permite a busca semântica com tradução automática.
+Este projeto processa documentos `.PDF`, indexa parágrafos usando FAISS e permite a busca semântica com tradução automática.
 
 ## 📌 Como Usar
 
