@@ -1,0 +1,15 @@
+# Ignorar ambientes virtuais
+env/
+venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos gerados pelo programa
+mapeamento.json
+documentos_processados.json
+vetores_indexados.faiss
+translate-en_pt.argosmodel
+livros/
