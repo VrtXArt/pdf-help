@@ -1,4 +1,4 @@
-import os
+import osa
 # Criar automaticamente a pasta 'pdf/' se ela não existir
 PASTA_PDF = "pdf"
 if not os.path.exists(PASTA_PDF):
