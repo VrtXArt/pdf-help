@@ -15,3 +15,4 @@ Antes de rodar o programa, instale todas as bibliotecas necessárias com:
 pip install -r requirements.txt
 
 será criada uma pasta chamada "pdf" que é local onde os PDFs são armazenados para as pesquisas 
+Rodando o teste novamente em modo_teste.
